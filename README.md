@@ -6,8 +6,9 @@ I am using this repo to store and document my progress, experiments, tangents, a
 
 ## Progress
 
-- [x] Building Micrograd
-- [ ] Building Makemore
+- [x] Build Micrograd
+  - Side-project: Learned about adafactor and learning rate optimization
+- [ ] Build Makemore
   - [ ] *In progress* - Part 1: language modeling
   - [ ] Part 2: MLP
   - [ ] Part 3: Activations & Gradients, BatchNorm
